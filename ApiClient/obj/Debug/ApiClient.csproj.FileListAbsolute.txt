@@ -1,0 +1,12 @@
+C:\Users\erhan.kaya\source\repos\ApiClient\ApiClient\bin\Debug\ApiClient.exe.config
+C:\Users\erhan.kaya\source\repos\ApiClient\ApiClient\bin\Debug\ApiClient.exe
+C:\Users\erhan.kaya\source\repos\ApiClient\ApiClient\bin\Debug\ApiClient.pdb
+C:\Users\erhan.kaya\source\repos\ApiClient\ApiClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\erhan.kaya\source\repos\ApiClient\ApiClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\erhan.kaya\source\repos\ApiClient\ApiClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\erhan.kaya\source\repos\ApiClient\ApiClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\erhan.kaya\source\repos\ApiClient\ApiClient\obj\Debug\ApiClient.csprojAssemblyReference.cache
+C:\Users\erhan.kaya\source\repos\ApiClient\ApiClient\obj\Debug\ApiClient.csproj.CoreCompileInputs.cache
+C:\Users\erhan.kaya\source\repos\ApiClient\ApiClient\obj\Debug\ApiClient.csproj.CopyComplete
+C:\Users\erhan.kaya\source\repos\ApiClient\ApiClient\obj\Debug\ApiClient.exe
+C:\Users\erhan.kaya\source\repos\ApiClient\ApiClient\obj\Debug\ApiClient.pdb
